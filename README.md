@@ -1,4 +1,3 @@
-# banking77-intent-classifier
 # Banking77 Intent Classifier — DistilBERT + LoRA Fine-Tuning
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
